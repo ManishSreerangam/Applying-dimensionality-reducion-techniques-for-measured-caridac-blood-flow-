@@ -25,4 +25,6 @@
   * Connectivity validity measure
 * Quantitative:
    * User study on 40 samples
-	
+
+additionally we have implemented our pre trained parameters (parameters of dimensionality techniques used on blood flow dataset) on a mice-protietn dataset, to check the cohort seperability
+
